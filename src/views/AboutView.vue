@@ -1,5 +1,15 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <div class="abc">11111</div>
 </template>
+
+<script>
+export default {};
+</script>
+
+<style>
+.abc {
+  width: 1920px;
+  height: 1080px;
+  background-color: white;
+}
+</style>
